@@ -16,6 +16,4 @@
 /tmp
 public/uploads:
 idea
-tmp
-tmp
-logs
+public/uploads
